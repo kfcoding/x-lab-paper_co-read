@@ -29,6 +29,7 @@
 - [ ]  1. Eric von Hipel，Karim Lakhani 《HOW OPEN SOURCE SOFTWARE WORKS:”FREE” USER-TO-USER ASSISTANCE?》 2000
 - [ ]  2. Shane Greenstein，Frank Nagle 《DIGITAL DARK MATTER AND THE ECONOMIC CONTRIBUTION OF APACHE》 2013，10
 - [ ]  3. Jonathan Tamary and Dror G. Feitelson，《The rise of Chrome》，2015
+- [ ]  4. IBRAHIM HADDAD,phd [ASSESSMENT OF OPEN SOURCE PRACTICES](https://www.linuxfoundation.org/wp-content/uploads/2019/03/AssessmentofOpenSourcePractices_Ebook_031119.pdf),2019 
 
 ### 2019.4 参考文献“扫荡”之文
 
