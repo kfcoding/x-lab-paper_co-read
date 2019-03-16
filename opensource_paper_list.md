@@ -26,15 +26,18 @@
 
 > 注：3月份的Linux基金会报告《企业开源:实战报告》没什么可读性。所以直接在第一周读完。后面还有一些时间。不如干脆继续扫荡2月份的参考文献。
 
-- [ ]  1. Eric von Hipel，Karim Lakhani 《HOW OPEN SOURCE SOFTWARE WORKS:”FREE” USER-TO-USER ASSISTANCE?》 2000
+- [ ]  1. Georg Von Krogh,Stefan Haefliger 等 [Carrots and Rainbows: Motivation and Socical Practice in Open Source Software Development](https://pdfs.semanticscholar.org/7712/3726f65f8fd88126357c12cad230cc832f41.pdf)，2012
 - [ ]  2. Shane Greenstein，Frank Nagle 《DIGITAL DARK MATTER AND THE ECONOMIC CONTRIBUTION OF APACHE》 2013，10
 - [ ]  3. Jonathan Tamary and Dror G. Feitelson，《The rise of Chrome》，2015
-- [ ]  4. IBRAHIM HADDAD,phd [ASSESSMENT OF OPEN SOURCE PRACTICES](https://www.linuxfoundation.org/wp-content/uploads/2019/03/AssessmentofOpenSourcePractices_Ebook_031119.pdf),2019 
+- [ ]  4. IBRAHIM HADDAD,phd [ASSESSMENT OF OPEN SOURCE PRACTICES](https://www.linuxfoundation.org/wp-content/uploads/2019/03/AssessmentofOpenSourcePractices_Ebook_031119.pdf),2019
+- [x]  5. Joel West and Scott Gallagher [Challenges of Open Innovation:The Paradox of Firm Investment in Open Source Software](http://www.joelwest.org/Papers/WestGallagher2006a-WP.pdf)，2006
+- [ ]  6. Alexander Hars、Shaosong Ou ，[Working for Free? - Motivation of Participating in Open Source Projects]()，2010
 
 ### 2019.4 参考文献“扫荡”之文
 
 - [ ] 1. [How to Succeed in Business by Bundling – and Unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
-- [ ] 2. [Open Source the year of book](https://opensource.com/sites/default/files/gated-content/2018_open_source_yearbook.pdf)
+- [ ] 2. Eric von Hipel，Karim Lakhani 《HOW OPEN SOURCE SOFTWARE WORKS:”FREE” USER-TO-USER ASSISTANCE?》 2000
+- [ ] 3. [Open Source the year of book](https://opensource.com/sites/default/files/gated-content/2018_open_source_yearbook.pdf)
 
 
 ## 专题篇
