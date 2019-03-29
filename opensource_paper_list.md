@@ -29,9 +29,9 @@
 - [x]  1. Georg Von Krogh,Stefan Haefliger 等 [Carrots and Rainbows: Motivation and Socical Practice in Open Source Software Development](https://pdfs.semanticscholar.org/7712/3726f65f8fd88126357c12cad230cc832f41.pdf)，2012
 - [x]  2. Shane Greenstein，Frank Nagle 《DIGITAL DARK MATTER AND THE ECONOMIC CONTRIBUTION OF APACHE》 2013，10
 - [x]  3. Jonathan Tamary and Dror G. Feitelson，《The rise of Chrome》，2015
-- [ ]  4. IBRAHIM HADDAD,phd [ASSESSMENT OF OPEN SOURCE PRACTICES](https://www.linuxfoundation.org/wp-content/uploads/2019/03/AssessmentofOpenSourcePractices_Ebook_031119.pdf),2019
+- [x]  4. IBRAHIM HADDAD,phd [ASSESSMENT OF OPEN SOURCE PRACTICES](https://www.linuxfoundation.org/wp-content/uploads/2019/03/AssessmentofOpenSourcePractices_Ebook_031119.pdf),2019
 - [x]  5. Joel West and Scott Gallagher [Challenges of Open Innovation:The Paradox of Firm Investment in Open Source Software](http://www.joelwest.org/Papers/WestGallagher2006a-WP.pdf)，2006
-- [ ]  6. Alexander Hars、Shaosong Ou ，[Working for Free? - Motivation of Participating in Open Source Projects]()，2010
+- [x]  6. Alexander Hars、Shaosong Ou ，[Working for Free? - Motivation of Participating in Open Source Projects]()，2010
 
 ### 2019.4 参考文献“扫荡”之文
 
@@ -42,6 +42,7 @@
 - [ ] 5.  Eric von Hippel 《Innovation by User Communities:Learning from Open-Source Software》
 - [ ] 6. Joel West & Karim R. Lakhani，《Getting Clear About Communities in Open Innovation》，2008
 - [ ] 7. Erik Brynjolfsson 《The Productivity Paradox of Information Technology: Review and Assessment》1993
+- [ ] 8.  D.L. Parnas  [On the Criteria To Be Used in Decomposing Systems into Modules ](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)，1972
 
 
 ## 专题篇
