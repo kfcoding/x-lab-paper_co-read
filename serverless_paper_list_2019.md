@@ -5,7 +5,7 @@
 - [x]  2019.2 [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://rise.cs.berkeley.edu/blog/a-berkeley-view-on-serverless-computing/)
 - [x]  2019.3 [Comparison of FaaS Orchestration Systems](https://arxiv.org/pdf/1807.11248.pdf)
 - [ ]  2019.4 [Serverless 架构](https://martinfowler.com/articles/serverless.html)
-
+- [ ]  2019.5 [Serverless Computing: One Step Forward, Two Steps Back](https://rise.cs.berkeley.edu/blog/publication/serverless-computing-one-step-forward-two-steps-back/)
 
 ## 其它 Serverless 资料
 
